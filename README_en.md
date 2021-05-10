@@ -4,17 +4,17 @@
 
 # Live2D Model Collections
 
-> this repo created by "RainbowFartWaifu"s author [@大帅老猿](https://space.bilibili.com/422646817), all model collection from the internet. if some help to you, please [subscribe author](https://space.bilibili.com/422646817) in Bilibili。
+> this repo created by "[RainbowFartWaifu](https://github.com/ezshine/live2d-model-collections/releases)"s author [@大帅老猿](https://space.bilibili.com/422646817), all model collection from the internet. if some help to you, please [subscribe author](https://space.bilibili.com/422646817) in Bilibili。
 
 ### Model file type
 
 - `.zip`
 
-  unzip and extract the `model.json` file, or use "RainbowFartWaifuContainer" load the zip file directly.
+  unzip and extract the `model.json` file, or use "[RainbowFartWaifu](https://github.com/ezshine/live2d-model-collections/releases)" load the zip file directly.
 
 - `.waifu`
 
-  only for "RainbowFartWaifuContainer"
+  only for "[RainbowFartWaifu](https://github.com/ezshine/live2d-model-collections/releases)"
 
 ### Directory Introduce
 
@@ -23,6 +23,10 @@
 - `animals`
 - `famous`（For Example: EVA）
 - `sexy`
+
+### Download RainbowFartWaifuContainer
+
+[click to download](https://github.com/ezshine/live2d-model-collections/releases)
 
 ### Fans Group
 
