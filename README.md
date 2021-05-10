@@ -24,7 +24,9 @@ switch to [english](README_en.md)
 - `famous`（知名人物，例：EVA明日香）
 - `sexy`（有突出的性暗示的）
 
+### 交流群
 
+qq群：1026509663
 
 ---
 

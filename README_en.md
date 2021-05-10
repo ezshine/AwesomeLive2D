@@ -24,7 +24,9 @@
 - `famous`（For Example: EVA）
 - `sexy`
 
+### Fans Group
 
+qq：1026509663
 
 ---
 
