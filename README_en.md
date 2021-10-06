@@ -1,6 +1,11 @@
 切换至 [中文](README.md)
 
-[![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+### Fans Group
+
+- [![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+- qq#3（new）：1108750812
+- qq#2（full）：610394408
+- qq#1（full）：1026509663
 
 ---
 
@@ -29,11 +34,6 @@
 ### Download RainbowFartWaifuContainer
 
 [click to download](https://github.com/ezshine/live2d-model-collections/releases)
-
-### Fans Group
-
-- qq#2（new）：610394408
-- qq#1（full）：1026509663
 
 ---
 
