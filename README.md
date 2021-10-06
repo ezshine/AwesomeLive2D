@@ -1,5 +1,7 @@
 switch to [english](README_en.md)
 
+[![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ---
 
 # Live2D模型收集仓库

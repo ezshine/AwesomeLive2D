@@ -1,5 +1,7 @@
 切换至 [中文](README.md)
 
+[![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ---
 
 # Live2D Model Collections
