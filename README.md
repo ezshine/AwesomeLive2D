@@ -3,7 +3,7 @@ switch to [english](README_en.md)
 ### 交流群
 
 - [![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-- qq群4群（新）：1059850921
+- qq群4群（新）：755938717
 - qq群3群（满）：1108750812
 - qq群2群（满）：610394408
 - qq群1群（满）：1026509663
