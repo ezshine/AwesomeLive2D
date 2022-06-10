@@ -3,7 +3,7 @@
 ### Fans Group
 
 - [![Gitter](https://badges.gitter.im/rainbow1024/community.svg)](https://gitter.im/rainbow1024/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-- qq#4（new）：1059850921
+- qq#4（new）：755938717
 - qq#3（full）：1108750812
 - qq#2（full）：610394408
 - qq#1（full）：1026509663
